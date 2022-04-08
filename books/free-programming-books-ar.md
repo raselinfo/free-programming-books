@@ -4,6 +4,7 @@
 
 * [Arduino](#arduino)
 * [Artificial Intelligence](#artificial-intelligence)
+* [AWS](#aws)
 * [C#&lrm;](#csharp)
 * [HTML/CSS](#htmlcss)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
@@ -36,6 +37,11 @@
 * [مدخل إلى الذكاء الاصطناعي وتعلم الآلة](https://academy.hsoub.com/files/17-%D9%85%D8%AF%D8%AE%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A2%D9%84%D8%A9/) - Mohamed Lahlah (PDF)
 
 
+### AWS
+
+* [كورس كامل بالعربى مع المهندس عيسى أبوشريف](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf) - Eissa AbuSherif (AWS Riyadh User Group)
+
+
 ### <a id="csharp"></a>C#&lrm;
 
 * [سبيلك المختصر لتعلم لغة c#&lrm; - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani (Arab Coders Academy) (PDF)
@@ -55,7 +61,8 @@
 ### JavaScript
 
 * [تعلم JavaScript&rlm;](https://itwadi.com/node/3002) - Cody Lindley, عبداللطيف ايمش (PDF)
-* [Eloquent Javascript (Second Edition)&rlm;](https://rabahboudia.gitbooks.io/arabic-eloquent-js/) - Marijn Haverbeke, Rabah Boudia (gitbook) 
+* [سلسلة تعلم Next.js بالعربية](https://blog.abdelhadi.org/learn-nextjs-in-arabic/) - Flavio Copes, عبدالهادي الأندلسي
+* [Eloquent Javascript (Second Edition)&rlm;](https://rabahboudia.gitbooks.io/arabic-eloquent-js/) - Marijn Haverbeke, Rabah Boudia (gitbook)
 
 
 ### Linux
