@@ -9,7 +9,6 @@
     * [Misceláneos](#miscel&#x00E1;neos)
     * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
-* [C](#c)
 * [C++](#cpp)
 * [Ensamblador](#ensamblador)
 * [Erlang](#erlang)
@@ -123,14 +122,8 @@
 
 ### Android
 
-* [Curso Android](http://www.hermosaprogramacion.com/android) (HTML)
+* [Curso Android](https://www.develou.com/android/) (HTML)
 * [Manual de Programación Android v.2.0](http://ns2.elhacker.net/timofonica/manuales/Manual_Programacion_Android_v2.0.pdf) - Salvador Gómez Oliver (PDF)
-
-
-### C
-
-* [GNU/Linux: Programación de Sistemas](http://www.alcancelibre.org/filemgmt_data/files/programaciongnulinux.pdf) (PDF)
-* [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf) - Andrés Marzal, Isabel Gracia (PDF) (descarga directa)
 
 
 ### <a id="cpp"></a>C++
@@ -186,6 +179,7 @@
 ### Java
 
 * [Aprendiendo Java y POO (2008)](https://openlibra.com/es/book/download/aprendiendo-java-y-poo) - Gustavo Guillermo Pérez (PDF)
+* [Curso Jakarta EE 9](https://danielme.com/curso-jakarta-ee-indice/) - Daniel Medina
 * [Desarrollando con Java 8: Poker](https://ia601504.us.archive.org/21/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf) - David Pérez Cabrera (PDF)
 * [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/libroJava.pdf) - Óscar Belmonte Fernández, Carlos Granell Canut, María del Carmen Erdozain Navarro, et al. (PDF)
 * [Ejercicios de Programación en Java](https://www.arkaitzgarro.com/java/) - Arkaitz Garro, Javier Eguíluz Pérez, A. García-Beltrán, J.M. Arranz (PDF)
@@ -202,6 +196,7 @@
 ### JavaScript
 
 * [El Tutorial de JavaScript Moderno](https://es.javascript.info) - Ilya Kantor, Elizabeth Portilla, joaquinelio, Ezequiel Castellanos, et al. (HTML)
+* [Eloquent JavaScript](https://eloquentjs-es.thedojo.mx) - Marijn Haverbeke, `trl.:` Various (HTML, PDF, EPUB, MOBI)
 * [Guía de JavaScript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) (HTML)
 * [Introducción a AJAX](http://librosweb.es/libro/ajax) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax)
 * [Introducción a JavaScript](http://librosweb.es/libro/javascript) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-javascript)
@@ -234,13 +229,14 @@
 
 #### Node.js
 
+* [El Libro para Principiantes en Node.js](https://www.nodebeginner.org/index-es.html) -  Manuel Kiessling, Herman A. Junge (HTML)
 * [Introducción a Node.js a través de Koans](http://nodejskoans.com) - Arturo Muñoz de la Torre (PDF)
 
 
 #### React
 
 * [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux/read) - Sergio Daniel Xalambrí (HTML)
-* [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen (HTML, PDF)
+* [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen, `trl.:` Raúl Expósito (HTML, PDF)
 
 
 ### LaTeX
@@ -250,7 +246,6 @@
 
 ### Linux
 
-* [Bases de la Programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html) (HTML)
 * [BASH Scripting Avanzado: Utilizando Declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123) - Eugenia Bahit (descarga directa)
 * [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) - WikiLibros
 * [El Manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable/) - Raphaël Hertzog, Roland Mas (HTML)
@@ -291,6 +286,7 @@
 * [Manual de estudio introductorio al lenguaje PHP procedural](https://web.archive.org/web/20140209203630/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf) - Eugenia Bahit (PDF)
 * [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/) - Duilio Palacios (HTML)
 * [POO y MVC en PHP](https://bibliotecafacet.com.ar/wp-content/uploads/2014/12/eugeniabahitpooymvcenphp.pdf) - Eugenia Bahit (PDF)
+* [Programación en PHP a través de ejemplos](https://openlibra.com/es/book/programacion-en-php-a-traves-de-ejemplos) - Manuel Palomo Duarte, Ildefonso Montero Pérez (HTML)
 * [Programación web avanzada: Ajax y Google Maps](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf) - Sergio Luján Mora, Universidad de Colima (PDF)
 * [Silex, el manual oficial](http://librosweb.es/libro/silex) - Igor Wiedler, `trl.:` Javier Eguíluz Pérez (HTML)
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/libro/symfony_1_4) - Fabien Potencier, François Zaninotto, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/symfony-la-guia-definitiva)
@@ -299,7 +295,7 @@
 
 #### Symfony
 
-* [Symfony 5: La Vía Rápida](https://symfony.com/doc/5.0/the-fast-track/es/index.html)
+* [Symfony 5: La Vía Rápida](https://web.archive.org/web/20210805141343/https://symfony.com/doc/current/the-fast-track/es/index.html)
 
 
 ### Perl
@@ -318,6 +314,7 @@
 
 * [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf) - Allen Downey, Jeffrey Elkner, Chris Meyers, `trl.:` Miguel Ángel Vilella, `trl.:` Ángel Arnal, `trl.:` Iván Juanes, `trl.:` Litza Amurrio, `trl.:` Efrain Andia, `trl.:` César Ballardini (PDF)
 * [Aprende Python](https://aprendepython.es) - Sergio Delgado Quintero (HTML, PDF)
+* [Aprendiendo a Programar en Python con mi Computador](https://openlibra.com/en/book/download/aprendiendo-a-programar-en-python-con-mi-computador) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/) (HTML)
 * [Inmersión en Python](https://code.google.com/archive/p/inmersionenpython3/) (HTML)
 * [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) - Mark Pilgrim, `trl.:` José Miguel González Aguilera (PDF) (descarga directa)
